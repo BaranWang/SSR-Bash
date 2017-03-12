@@ -38,9 +38,13 @@ ShadowsocksR多用户管理脚本
 - Debian8
 
 ## 安装 ##
-    wget -N --no-check-certificate https://raw.githubusercontent.com/Yuenggpong/SSR-Bash/master/install.sh && bash install.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash/master/install.sh && bash install.sh
+
+   wget -N --no-check-certificate https://raw.githubusercontent.com/Yuenggpong/SSR-Bash/master/install.sh && bash install.sh
 
 ## 卸载 ##
+  wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash/master/uninstall.sh && bash uninstall.sh
+
     wget -N --no-check-certificate https://raw.githubusercontent.com/Yuenggpong/SSR-Bash/master/uninstall.sh && bash uninstall.sh
 
 ## 开源许可 ##
